@@ -1,14 +1,22 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Note Taker app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jake Kelly",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakekelly44/uabc-note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jakekelly44/uabc-note-taker/issues"
+  },
+  "homepage": "https://github.com/jakekelly44/uabc-note-taker#readme"
 }
