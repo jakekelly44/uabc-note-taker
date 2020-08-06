@@ -30,7 +30,7 @@ Open up your browser to:
 `http://localhost:3000`   
 Use the application locally OR push to a heroku repo   
 
-![Proof of Not Taker](doc/...?raw=true "Note Taker Still")
+![Proof of Not Taker](doc/demo_still.png?raw=true "Note Taker Still")
 
 ## Credits
 
@@ -76,12 +76,12 @@ SOFTWARE.
 
 ## Documentation
 
-![Proof of Note Taker GIF](doc/??? "Note Taker App GIF")
+![Proof of Note Taker GIF](doc/demo_gif.gif "Note Taker App GIF")
 
-Please use the following link to view a test output of the application's function: [Note Taker App](??? "Note Taker App Test Output")
+Please use the following link to the live demo deployed on Heroku: [Note Taker App](https://uabc-note-taker.herokuapp.com/ "Note Taker App Test Output")
 
-Please use the following link to view the application demo video: [Application Demo on Youtube](???? "Note Taker App Video")
+Please use the following link to view the application demo video: [Application Demo on Youtube](https://youtu.be/94mEDuM0C-Q "Note Taker App Video")
 
-Please use the following link to download the application demo video: [Note Taker App Demo Download](doc/???? "Note Taker App Video")
+Please use the following link to download the application demo video: [Note Taker App Demo Download](doc/demo_video.mp4 "Note Taker App Video")
 
 
