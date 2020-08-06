@@ -19,23 +19,25 @@ This is a project which was developed for the University of Arizona Coding Bootc
 
 Clone the repo onto your local drive   
 Open a command line terminal specific to the repo folder    
-Run the following command and answer all of the prompts:    
-`npm init`   
-Run the following commands:   
- 
-
-
+Run the following command in order to install dependencies   
+`npm install`   
 
 ## Usage 
 
-From the command line, run the following command:   
-
+From the command line, run the following command:       
+`node server.js`   
+Open up your browser to:   
+`http://localhost:3000`   
+Use the application locally OR push to a heroku repo   
 
 ![Proof of Not Taker](doc/...?raw=true "Note Taker Still")
 
 ## Credits
 
-University of Arizona Coding Bootcamp Week 10 Module 11: Object-Oriented Programming
+University of Arizona Coding Bootcamp Week 11 Module 11: Express.js
+
+[Express](http://expressjs.com/)
+
 
 ## License
 
