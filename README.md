@@ -11,7 +11,6 @@ This is a project which was developed for the University of Arizona Coding Bootc
 * [Credits](#credits)
 * [License](#license)
 * [Badges](#badges)
-* [Tests](#tests)
 * [Documentation](#documentation)
 
 
@@ -70,9 +69,6 @@ SOFTWARE.
 ![badge](https://img.shields.io/badge/inquirer-red)
 ![badge](https://img.shields.io/badge/jest-green)
 ![badge](https://img.shields.io/badge/express-orange)
-
-## Tests
- 
 
 ## Documentation
 
