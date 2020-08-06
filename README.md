@@ -2,8 +2,7 @@
 
 ## Description 
 
-This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within has been designed to take user input from a web browser and then store notes in a JS DB. 
-
+This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within is designed to take user input from a web browser and store the input in a JSON DB.
 
 ## Table of Contents 
 
